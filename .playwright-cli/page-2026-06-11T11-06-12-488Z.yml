@@ -1,0 +1,7 @@
+- generic [ref=e2]:
+  - generic [ref=e3]: 🏥
+  - heading "AMLS" [level=1] [ref=e4]
+  - paragraph [ref=e5]: Advanced Medical Life Support
+  - generic [ref=e6]:
+    - textbox "Senha" [active] [ref=e7]
+    - button "Entrar" [ref=e8] [cursor=pointer]

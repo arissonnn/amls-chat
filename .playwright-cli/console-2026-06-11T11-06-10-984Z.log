@@ -1,0 +1,3 @@
+[     237ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://arissonnn.github.io/favicon.ico:0
+[     550ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://llp-interface-lime-loads.trycloudflare.com/:0
+[     833ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://llp-interface-lime-loads.trycloudflare.com/favicon.ico:0

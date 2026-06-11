@@ -1,0 +1,16 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]: Aguardando resposta...
+  - generic [ref=e5]:
+    - button "Nota Livre" [ref=e6] [cursor=pointer]
+    - button "🏥 PS" [ref=e7] [cursor=pointer]
+    - button "🚑 CTI" [ref=e8] [cursor=pointer]
+    - button "🛌 Enfermaria" [ref=e9] [cursor=pointer]
+    - button "💊 Prescrição" [ref=e10] [cursor=pointer]
+    - button "📋 Alta" [ref=e11] [cursor=pointer]
+    - button "👶 Pediatria" [ref=e12] [cursor=pointer]
+  - generic [ref=e13]:
+    - generic [ref=e14]: Olá! Sou o AMLS. Mande suas notas clínicas não estruturadas que eu formato como nota médica profissional. Selecione um preset acima para contexto específico.
+    - generic [ref=e18]: "nota: paciente 45a, febre há 3 dias, tosse produtiva, MV reduzido base direita"
+  - generic [ref=e15]:
+    - textbox "Digite a nota clínica... (Enter envia, Shift+Enter pula linha)" [ref=e16]
+    - button "➤" [disabled] [ref=e17] [cursor=pointer]
