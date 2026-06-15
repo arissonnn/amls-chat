@@ -1,0 +1,6 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]: 🔗 Tunnel — 266ms
+  - generic [ref=e6]: Conectado ao Hermes Agent. Como posso ajudar?
+  - generic [ref=e7]:
+    - textbox "Digite sua mensagem... (Enter envia, Shift+Enter pula linha)" [ref=e8]
+    - button "➤" [disabled] [ref=e9] [cursor=pointer]

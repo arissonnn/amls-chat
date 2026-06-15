@@ -1,0 +1,9 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]: Streaming...
+  - generic [ref=e5]:
+    - generic [ref=e6]: Conectado ao Hermes Agent. Como posso ajudar?
+    - generic [ref=e10]: Quais ferramentas você tem disponíveis?
+    - generic [ref=e11]: "Tenho as seguintes ferramentas disponíveis: **Navegação e Arquivos:** - `read_file` -- ler arquivos com numeração de linhas - `write_file` -- escrever/criar arquivos - `search_files` -- buscar conteúdo ou arquivos por nome (alternativa ao grep/find) - `patch` -- edições cirúrgicas find-and-replace em arquivos **Terminal e Processos:** - `terminal` -- executar comandos shell (bash, foreground/background) - `process` -- gerenciar processos em background (listar, poll, log, wait, kill, enviar stdin) **Execução de Código:** - `execute_code` -- rodar Python com acesso programático às ferramentas (ideal para loops, condicionais, 3+ chamadas) **Pesquisa em Sessões Passadas:** - `session_search` -- buscar conversas anteriores (FTS5), ler sessões completas ou navegar por janelas de mensagens **Skills (Memória Procedural):** - `skills_list` -- listar skills disponíveis - `skill_view` -- carregar conteúdo de uma skill - `skill_manage` -- criar, editar, patch, deletar skills **Memória Persistente:** - `memory` -- salvar fatos duráveis entre sessões (preferências, configurações de ambiente) **Tarefas e Cron:** - `todo▋"
+  - generic [ref=e7]:
+    - textbox "Digite sua mensagem... (Enter envia, Shift+Enter pula linha)" [ref=e8]
+    - button "✕" [ref=e12] [cursor=pointer]
